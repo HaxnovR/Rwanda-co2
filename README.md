@@ -1,6 +1,8 @@
 # Rwanda CO2 Prediction
 ### Kaggle playground competition for predicting co2 levels in Rwanda
 
+![image](https://github.com/HaxnovR/Rwanda-co2/assets/60336295/1e58b2ae-6960-4108-8439-e1d108930b1e)
+
 ## Dataset Description
 
 The objective of this challenge is to create machine learning models that use open-source emissions data (from Sentinel-5P satellite observations) to predict carbon emissions.
@@ -24,3 +26,6 @@ train.csv - the training set
 test.csv - the test set; your task is to predict the emission target for each week at each location
 
 sample_submission.csv - a sample submission file in the correct format
+
+[Link to Competition](https://www.kaggle.com/competitions/playground-series-s3e20/overview)
+
